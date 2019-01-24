@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="wordWeather">Погода\u0020\u0020\u0020\u0020\u0020</string>
+    <string name="wordDate">ru-RU</string>
+    <string name="wordSettings">Настройки</string>
+    <string name="wordLanguage">Язык:</string>
+    <string name="wordStyle">Стиль:</string>
+    <string name="wordTime">Время:\u0020</string>
+    <string name="wordTemperature">Температура:\u0020</string>
+    <string name="wordWind">Ветер</string>
+    <string name="wordPressure">Давление</string>
+    <string name="wordHumidity">Влажность</string>
+    <string name="wordMMPTST">\u0020мм.\u0020рт.\u0020ст.</string>
+    <string name="wordMC">\u0020м/с</string>
+    <string name="wordC">\u0020°C</string>
+    <string name="wordDay">День</string>
+    <string name="wordNight">Ночь</string>
+</resources>
